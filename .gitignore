@@ -1,0 +1,27 @@
+# Arquivos de Byte compilados do Python (bytecode)
+__pycache__/
+*.pyc
+
+# Ambiente virtual (por exemplo, criado com virtualenv ou pipenv)
+venv/
+env/
+*.env
+
+# Arquivos de configuração local (por exemplo, .env, .ini, .conf)
+*.ini
+*.conf
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de saída do IDE (por exemplo, PyCharm)
+.idea/
+*.iml
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivos gerados automaticamente
+*.egg-info/
